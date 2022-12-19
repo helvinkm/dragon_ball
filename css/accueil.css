@@ -1,0 +1,112 @@
+.11_141 { 
+	overflow:hidden;
+}
+.e11_141 { 
+    background: linear-gradient(rgba(246,75,0,1), rgba(252,116,0,1));
+	width:1920px;
+	height:1080px;
+	position:absolute;
+}
+.e11_142 { 
+	width:518px;
+	height:159px;
+	position:absolute;
+	left:771px;
+	top:21px;
+	background-image:url(../images/pngwing_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e11_143 { 
+	background-color:rgba(31.024997010827065, 31.024997010827065, 31.024997010827065, 1);
+	width:1920px;
+	height:138px;
+	position:absolute;
+	left:0px;
+	top:942px;
+}
+.e11_144 { 
+	color:rgba(255, 255, 255, 1);
+	width:198px;
+	height:48px;
+	position:absolute;
+	left:366px;
+	top:61px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+    
+}
+.e11_145 { 
+	color:rgba(255, 255, 255, 1);
+	width:138px;
+	height:48px;
+	position:absolute;
+	left:87px;
+	top:61px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e11_146 { 
+	width:740px;
+	height:1013px;
+	position:absolute;
+	left:1301px;
+	top:33px;
+	background-image:url(../images/584e838b6a5ae41a83ddee3c_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e11_147 { 
+	background-color:rgba(255, 255, 255, 0);
+	width:833px;
+	height:649px;
+	position:absolute;
+	left:52px;
+	top:232px;
+}
+.11_147 { 
+	border:10px solid rgba(31.024997010827065, 31.024997010827065, 31.024997010827065, 1);
+}
+.e11_148 { 
+	color:rgba(255, 255, 255, 1);
+	width:69px;
+	height:29px;
+	position:absolute;
+	left:191px;
+	top:996px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e11_149 { 
+	color:rgba(255, 255, 255, 1);
+	width:69px;
+	height:29px;
+	position:absolute;
+	left:52px;
+	top:996px;
+	font-family:Inter;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e11_150 { 
+	color:rgba(255, 255, 255, 1);
+	width:749px;
+	height:565px;
+	position:absolute;
+	left:94px;
+	top:274px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+    border: 1rem black solid;
+    padding: 1rem;
+    word-spacing: 1px;
+}
